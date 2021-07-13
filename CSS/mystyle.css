@@ -1,0 +1,43 @@
+body {
+	margin: 0 400px;
+	text-align: justify;
+}
+
+
+h1 {
+	color: darkgreen;
+	font-family: georgia;
+	text-align: center;
+}
+
+h2 {
+	font-family: georgia;
+	text-align: center;
+}
+
+p {
+	line-height: 25px;
+	font-size: 20px;
+	padding: 15px;
+}
+
+a {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+div {
+	text-transform: uppercase;
+}
+ul {
+	font-size: 20px;
+}
+
+.left {
+	float: left;
+	padding: 0 20px;
+}
